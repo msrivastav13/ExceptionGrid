@@ -19,6 +19,7 @@ Use the Lightning App Builder to drag and drop the Exception Grid Component LWC 
 - Move the conditions to use strategy pattern
 - Support more data types like Boolean, Picklists, Date and Date time
 - Write better unit tests
+- Use custom labels for Exception Message to support multi language
 
 Please raise an issue on the repository in case of any issues
 
